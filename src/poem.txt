@@ -5,9 +5,9 @@ I found a love for code, a passion keen.
 A realm where logic reigns, where dreams unfold,
 In the language of machines, my heart is sold.
 
-Through algorithms and loops, I find my way,
-In the depths of syntax, I long to stay,
-For in these lines of code, I've found my muse,
+Through algorithms and loops, I find my way.
+In the depths of syntax, I long to stay.
+For in these lines of code, I've found my muse.
 A symphony of logic, where I'll never lose.
 
 The binary stars that guide me through the night,
