@@ -15,9 +15,9 @@ With every bug I squash, I see the light.
 My heart beats to the rhythm of CPU's hum.
 In the realm of silicon, I've found my home.
 
-I cherish the elegance of data's dance,
-And in the algorithms, I find romance,
-The beauty of abstraction, oh, so sublime,
+I cherish the elegance of data's dance.
+And in the algorithms, I find romance.
+The beauty of abstraction, oh, so sublime.
 In the world of computer science, I bide my time.
 
 With each line I write, a universe I create,
